@@ -1,5 +1,5 @@
 # 👋 Hi, welcom to me github :3
-
+## C# ; C++ ; Java ; Python ; Lua ; Developer
 hello im byfr0n (aka someone else)
 i do cool stuff
 :D

@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub profile
 **C# | C++ | Java | Python | Lua Developer**  
 
-Hi, I'm Byfr0n! I love creating cool stuff. 😈 Check out some of my projects and feel free to connect!  
+Hi, I'm Byfr0n! I love creating cool stuff 😈 
 
 ---
 
